@@ -1,5 +1,5 @@
 import React from "react";
-import About from "../components/about";
+import Profile from "../components/Profile";
 import Education from "../components/Education";
 import Technologies from "../components/Technologies";
 import Projects from "../components/Projects";
@@ -53,7 +53,7 @@ const Home = () => {
         </div>
       </div>
       <div>
-        <About />
+        <Profile />
         <Education />   
         <Technologies />
         <Coures/>
