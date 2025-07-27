@@ -5,7 +5,7 @@ import Technologies from "../components/Technologies";
 import Projects from "../components/Projects";
 import Footer from "../components/Footer";
 import Sidebar from "../components/Sidebar";
-import Coures from "../components/Coures";
+import Certification from "../components/Certification";
 
 const Home = () => {
   return (
@@ -56,7 +56,7 @@ const Home = () => {
         <Profile />
         <Education />   
         <Technologies />
-        <Coures/>
+        <Certification/>
         <Projects />
         <Footer />
       </div>
