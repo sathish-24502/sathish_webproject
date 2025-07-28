@@ -10,7 +10,7 @@ const Technologies = () => {
   const logos = Object.values(images); // extract URLs
 
   return (
-    <section id="technologies" className="bg-white font-serif m-6 text-black max-sm:m-4 max-md:m-4">
+    <section id="technologies" className="max-w-sm bg-white font-serif m-6 text-black max-sm:m-4 max-md:m-4">
       <p className="text-2xl font-bold flex justify-center mb-4 max-sm:text-xl max-md:text-xl">
         Technologies
       </p>

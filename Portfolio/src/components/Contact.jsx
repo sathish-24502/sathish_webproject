@@ -14,7 +14,7 @@ const Contact = () => {
             sathisheswari24@gmail.com
           </p>
           <p className="flex mb-2 items-center gap-1 text-lg max-sm:text-sm max-md:text-sm max-lg:text-sm">
-            <FaPhone className="text-green-400" />
+            <FaPhone className="text-green-400 rotate-90" />
             6383366707
           </p>
           <p className="flex items-center gap-1 text-lg max-sm:text-sm max-md:text-sm max-lg:text-sm">

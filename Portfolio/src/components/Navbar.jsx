@@ -4,10 +4,10 @@ import { FaBars } from "react-icons/fa";
 
 export default function Navbar() {
   return (
-    <section className="flex justify-center sticky top-0 z-10 max-sm:hidden">
+    <section className="flex justify-center sticky top-0 z-10 max-sm:hidden ">
       <div className="w-1/2 rounded-xl bg-black bg-opacity-80 text-white shadow-md shadow-black h-auto max-sm:w-full max-sm:rounded-none max-md:w-3/4 max-lg:w-3/4">
         <div>
-          <ul id="nav" className="flex justify-around items-center p-2 ">
+          <ul id="nav" className="flex justify-around items-center p-2">
             {[
               "Home",
               "About",

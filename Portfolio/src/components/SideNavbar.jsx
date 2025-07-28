@@ -10,7 +10,7 @@ const SideNavbar = () => {
   }
 
   return (
-    <section className="">
+    <section className="max-w-sm">
       {/* Top Right Menu Icon */}
       <div className="bg-black text-white  max-sm:flex p-2 hidden justify-end items-end bg-opacity-80">
         <div onClick={handleToggle} className="cursor-pointer z-50">

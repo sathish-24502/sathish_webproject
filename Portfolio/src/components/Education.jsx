@@ -2,7 +2,7 @@ import React from "react";
 
 const Education = () => {
   return (
-    <section id="education" className="text-black m-6 max-sm:m-4 max-md:m-4">
+    <section id="education" className="text-black max-w-sm overflow-x-auto m-6 max-sm:m-4 max-md:m-4">
       <h1 className=" text-2xl font-bold flex justify-center font-serif max-sm:mb-1 max-sm:text-xl max-md:text-xl">Education</h1>
       <div className="m-4 p-2 font-serif">
         <h1 className="text-xl flex mb-1 justify-between max-sm:text-sm  max-md:text-sm">
