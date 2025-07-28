@@ -10,7 +10,7 @@ import Certification from "../components/Certification";
 const Home = () => {
   return (
     <section id="home" className="">
-      <div className="max-w-sm sm:text-sm md:sm: lg:md: xl:lg">
+      <div className="">
         <div className="bg-[url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXs4Esh8FpOLYazSHxZ9hjKhDw8-IkSRe6d_ZGk6-v-wwxEaRuPUNsQfA&s')] bg-cover bg-center h-screen w-full">
           <div>
             <div className="flex justify-end items-end">

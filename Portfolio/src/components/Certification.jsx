@@ -3,7 +3,7 @@ import coursesImg from "../assets/courses.png";
 
 const Certification = () => {
   return (
-    <section id="coures" className="max-w-sm bg-black bg-opacity-85 text-white flex justify-center items-center">
+    <section id="coures" className="bg-black bg-opacity-85 text-white flex justify-center items-center">
       <div>
         <h1 className=" text-2xl p-4 underline font-bold font-serif flex justify-center items-center max-sm:mb-1 max-sm:text-xl max-md:text-xl">
           Course

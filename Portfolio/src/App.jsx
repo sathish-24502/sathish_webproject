@@ -7,7 +7,7 @@ import SideNavbar from "./components/SideNavbar";
 function App() {
   return (
     <BrowserRouter>
-      {/* <Navbar /> */}
+      <Navbar />
       <SideNavbar/>
       <Routes>
         <Route path="/" element={<Home />} />

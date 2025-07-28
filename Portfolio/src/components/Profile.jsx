@@ -3,7 +3,7 @@ import Contact from "./Contact";
 
 const About = () => {
   return (
-    <section id="about" className="max-w-sm md:w-full w-full h-auto bg-black bg-opacity-95">
+    <section id="about" className="w-full h-auto bg-black bg-opacity-95">
       <div className="flex justify-center items-center">
         <div className="text-white p-4 ">
           <h1 className="flex justify-center border-b-2 text-3xl font-bold mb-2 font-serif max-sm:text-xl">
